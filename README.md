@@ -1,0 +1,2 @@
+# GitHub-Profile-Finder
+Here I've created a simple application that'll display some stuffs from a GitHub user's profile. GitHub has a really easy to use nice API that'll return JSON content so that it can be used in the application. I've used AJAX behind the scene to make a request to https://api.github.com/users/SampleUser and get the necessary information so that it can be used in the application.
